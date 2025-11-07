@@ -13,6 +13,7 @@ exclude: [
     ]
 header_pages:
   - schedule.md
+  - grading.md
   - contact.md
 plugins:
   - jekyll-seo-tag
