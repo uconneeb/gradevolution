@@ -25,7 +25,7 @@ There is no textbook for this course. Readings from the primary and secondary li
 
 ## Evaluations and Grading
 
-Please see the [Grading](/grading) page for details about how your learning will be assessed this semester.
+Please see the [Grading](grading) page for details about how your learning will be assessed this semester.
 
 ## Schedule of topics
 
