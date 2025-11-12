@@ -47,5 +47,5 @@ TODO
 
 ## Privacy Statement ##
 
-For information on managing your privacy at the University of Connecticut, visit the University’s Privacy page. NOTE: This course has NOT been designed for use with mobile devices.
+For information on managing your privacy at the University of Connecticut, visit the [University’s Privacy page](https://privacy.uconn.edu/). 
 
