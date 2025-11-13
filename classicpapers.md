@@ -11,80 +11,129 @@ NOTE:  In the comments following some of the references, KS = Kurt Schwenk; CS =
 ## Books
 
 **1798** Malthus, T. 1798. An Essay on the Principle of Population, as it Affects the Future Improvement of Society with Remarks on the Speculations of Mr. Godwin, M. Condorcet, and Other Writers. Printed for J. Johnson, in St. Paul's Church-yard, London.
->not a work on evolution, but this famous essay was instrumental to Darwin in formulating the notion of the 'struggle for existence', which played a critical part in his theory of natural selection (KS)
+> Not a work on evolution, but this famous essay was instrumental to Darwin in formulating the notion of the 'struggle for existence', which played a critical part in his theory of natural selection (KS)
 
 **1859** Darwin, C. 1859. On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. 1st ed. John Murray, London. 
 > [DARWIN'S WORKS ONLINE](http://darwin-online.org.uk/)
 
+**1871** Darwin, C. 1871. The Descent of Man, and Selection in Relation to Sex. Vols. 1 & 2. 1st ed. John Murray, London.
+> [DARWIN'S WORKS ONLINE](http://darwin-online.org.uk/)
+
+**1872** Darwin, C. 1872. On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. 6th ed. with additions and corrections. John Murray, London.
+> [DARWIN'S WORKS ONLINE](http://darwin-online.org.uk/)
+
+**1902** Baldwin, J. M. 1902. Development and Evolution. MacMillan, London.
+
+**1902** Bateson, W. 1902/1909. Mendel's Principles of Heredity. A Defense. Cambridge Univ. Press, Cambridge.
+> [READ 1902 EDITION ONLINE HERE](http://www.esp.org/books/bateson/mendel/facsimile/) After the rediscovery of Mendel’s work in 1900, Bateson popularized it in this book (KH)
+
+**1919** Morgan, T. H. 1919. The Physical Basis of Heredity. Monographs on Experimental Biology. J. B. Lippincott Co., Philadelphia.
+
+**1930** Fisher, R. A. 1930. The Genetical Theory of Natural Selection. Clarendon Press, Oxford. 
+> [FULL TEXT LINK HERE](http://openlibrary.org/details/geneticaltheoryo031631mbp)
+
+**1932** Haldane, J. B. S. 1932. The Causes of Evolution. Longmans, Green and Co., London.
+> Birth of quantitative genetics; appendix has summary of his papers on selection intensity, etc. (CS); reprinted 1990 by Princeton Univ. Press, which you can buy or read about [HERE](http://press.princeton.edu/titles/4618.html) (KS)
+
+**1937** Dobzhansky, T. 1937. Genetics and the Origin of Species. Columbia Univ. Press, New York. 
+> +2nd and 3rd editions in 1941 and 1951, respectively (KS)
+
+**1938** de Beer, G. R. (editor).1938. Evolution. Essays on Aspects of Evolutionary Biology Presented to Professor E. S. Goodrich on His Birthday. Oxford/Clarendon Press, Oxford.
+
+**1940** Goldschmidt, R. 1940. The Material Basis of Evolution. Yale Univ. Press, New Haven. 
+> Ever wonder where the term "hopeful monster" came from? (KS)
+
+**1940** de Beer, G. R. 1940. Embryos and Ancestors. 1st ed. Oxford/Clarendon Press, Oxford.
+> Early ideas on evo-devo. 3rd edition published in 1958. pdf courtesy of Hao Wang (KS)
+
+**1942** Huxley, J. S. 1942. Evolution, the Modern Synthesis. Harper, New York. (Schwenk)
+> new edition in 1963, Allen and Unwin, London, with new Introduction by Huxley (KS)
+
+**1942** Mayr, E. 1942. Systematics and the Origin of Species. Columbia Univ. Press, New York.
+
+**1942** Thompson, D. W. 1942. On Growth and Form: A New Edition. Cambridge Univ. Press, Cambridge. 
+> Reprinted unabridged by Dover Press, 1992. An amazing book dealing with allometry, morphological transformation and quantification, among other things. Introduces the application of Cartesian coordinates to examine 2-D shape change (KS)
+
+**1944** Simpson, G. G. 1944. Tempo and Mode in Evolution. Columbia Univ. Press, New York.
+
+**1949** Jepsen, G. L., G. G. Simpson and E. Mayr (editors). 1949. Genetics, Paleontology and Evolution. Princeton Univ. Press, Princeton, NJ. 
+> the short Foreward by Jepsen is a nice capsule summary of the aims and scope of the Synthesis (KS)
+
+**1949** Schmalhausen, I. I. 1949. Factors of Evolution. The Theory of Stabilizing Selection. The Blakiston Co., Philadelphia. 
+> Reprinted 1986 by the Univ. of Chicago Press. Schmalhausen worked in isolation in Stalinist Russia and his accomplishments are all the more remarkable because of this (KS)
+
+**1949** Simpson, G. G. 1949. The Meaning of Evolution. Yale Univ. Press, New Haven. 
+> More of a popular book, but influential (KS)
+
+**1950** Stebbins, G. L., Jr. 1950. Variation and Evolution in Plants. Columbia Univ. Press, New York.
+> Stebbins was the one botanist ‘officially’ welcomed into the Synthesis fold (KS). Interestingly, despite the emphasis of the synthesis on "population thinking", this book is largely focused at the macroevolutionary level (CS).
+
+**1951** Gregory, W. K. 1951. Evolution Emerging. A Survey of Changing Patterns From Primeval Life to Man. Vols. 1 & 2. MacMillan, New York. (Schwenk)
+> The first volume is a history of life and was probably a bit dated even when it was published; the second volume is an amazing collection of figures of organisms, skulls, fossils, etc. Together they represent an amazing post-war treatise on biodiversity and the physical evidence for evolution (KS)
+
+**1953** Simpson, G. G. 1953. The Major Features of Evolution. Columbia Univ. Press, New York. 
+> A complete reworking of Tempo and Mode; virtually a new, more synthetic book. If you can read only one Simpson book, make it this one. The job of relating the population/genetic/microevolutionary phenomena of concern to most of the ‘synthesists’ to macroevolutionary/deep time patterns evident in the fossil record fell to Simpson. He makes a heroic effort here and was way ahead of his time. Originates the notion of the 'adaptive zone' and discusses the relation between adaptive zones and adaptive radiations at length (KS)
+
+**1957** Waddington, C. H. 1957. The Strategy of the Genes. A Discussion of Some Aspects of Theoretical Biology. Macmillan, New York.
+> The dawning of the modern evo-devo movement; a critically important, but often neglected book - a 'must read' for people interested in development and phenotypic evolution. Explicates the important concepts of 'canalization' and the 'epigenetic landscape', among others (KS)
+
+**1958** Bonner, J. T. 1958. The Evolution of Development. Cambridge Univ. Press, Cambridge.
+
+**1959** Rensch, B. 1959. Evolution Above the Species Level. Columbia Univ. Press, New York. 
+> Originally published in 1954 in German; Rensch was a dual PhD in philosophy and biology; his philosophical bent is obvious in his writings. Interestingly, his student, Gerhard Roth - who works on evolutionary neuroanatomy of the brain and especially sensory systems in amphibians - is also a dual PhD in philosophy and biology, as is Schlichting's former student, Massimo Pigliucci...) (KS)
+
+**1963** Grant, V. 1963. The Origin of Adaptations. Columbia Univ. Press, New York.
+
+**1963** Mayr, E. 1963. Animal Species and Evolution. Belknap/Harvard Univ. Press, Cambridge, MA. 
+> Synthesis of the Synthesis from the man who gave us the Synthesis; explicates Mayr’s view on geographic/allopatric speciation, among other things (KS)
+
+**1965** Whyte, L. L. 1965. Internal Factors in Evolution. George Braziller, New York. (Schwenk)
+> More philosophical than biological, this book, virtually ignored at the time, is becoming increasingly influential; deals with organismal ‘homeostasis’ and introduces the important concept of 'internal selection' (KS)
+
+**1966** Hennig, W. 1966. Phylogenetic Systematics. Univ. of Illinois Press, Urbana. (Schwenk)
+> Translated by D. Dwight Davis and R. Zangerl; this book represents a revised and expanded version of Hennig’s Grundzüge einer Theorie der phylogenetischen Systematik (1950) and is therefore a new book rather than a simple translation. This is the bible of cladistics that when introduced into North America caused a paradigm shift in systematics (KS)
+
+**1966** Williams, G. C. 1966. Adaptation and Natural Selection. Princeton University Press, Princeton NJ.
+
+**1968** Wright, S. 1968. Evolution and the Genetics of Populations. Vol. 1. Genetics and Biometric Foundations. Univ. of Chicago Press, Chicago.
+
+**1969** Wright, S. 1969. Evolution and the Genetics of Populations. Vol. 2. The Theory of Gene Frequencies. Univ. of Chicago Press, Chicago.
+
+**1977** Wright, S. 1977. Evolution and the Genetics of Populations. Vol. 3. Experimental Results and Evolutionary Deductions. Univ. of Chicago Press, Chicago.
+
+**1978** Wright, S. 1978. Evolution and the Genetics of Populations. Vol. 4. Variability Within and Among Natural Populations. Univ. of Chicago Press, Chicago. (Schwenk)
+
+**1970** Dobzhansky, T. 1970. Genetics of the Evolutionary Process. Columbia Univ. Press, New York.
+
+**1975** Frazzetta, T. H. 1975. Complex Adaptations in Evolving Populations. Sinauer Assoc., Sunderland, MA. 
+>A quirky and often overlooked book on the evolution of 'complex' adaptations, character complexes, etc. (KS)
+
+**1976** Dawkins, R. 1976. The Selfish Gene. Oxford Univ. Press, Oxford. 
+> Phenotypes as contrivances of genes to replicate themselves (KS)
+
+1977** Gould, S. J. 1977. Ontogeny and Phylogeny. Belknap/Harvard Univ. Press, Cambridge. 
+> Read this book for the first half - a fantastic history of developmental morphology - Haeckel, von Baer - those guys; the second half is Gould’s proposed ‘clock model’ of heterochrony, which he subsequently abandoned for Alberch et al.’s (1979) ‘ontogenetic trajectories’ (KS)
+
+**1978** Riedl, R. 1978. Order in Living Organisms. John Wiley and Sons, New York.
+> Fascinating, but rather opaque; read his 1977 paper for the essentials; Günter Wagner of Yale was a Riedl student (KS)
+
+**1978** White, M. J. D. 1978. Modes of Speciation. W. H. Freeman, San Francisco.  
+> I’m not sure this belongs here because I don’t believe it has had much of an effect in the long term; however, at the time cytogenetics promised great things and White was its leading proponent; cytogenetics has been largely supplanted by molecular-genetic/genomic approaches (KS)
+
+**1986** Endler, J. A. 1986. Natural Selection in the Wild. Monographs in Population Biology No. 21. Princeton Univ. Press, Princeton, NJ. 
+> In addition to technical material on measuring selection, etc., Endler has an excellent and thoughtful general/philosophical discussion of natural selection—a very good introduction to the concept (KS)
+
+**1988** Bonner, J. T. 1988. The Evolution of Complexity by Means of Natural Selection. Princeton Univ. Press, Princeton.
+
+**1992** Williams, G. C. 1992. Natural Selection. Domains, Levels, and Challenges. Oxford Univ. Press, Oxford.
+
+## ARTICLES AND BOOK CHAPTERS
+
+Coming soon...
+
 {% comment %}
-1871	Darwin, C. 1871. The Descent of Man, and Selection in Relation to Sex. Vols. 1 & 2. 1st ed. John Murray, London. [DARWIN'S WORKS ONLINE HERE]
-1872	Darwin, C. 1872. On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. 6th ed. with additions and corrections. John Murray, London. [DARWIN'S WORKS ONLINE HERE]
-1902	Baldwin, J. M. 1902. Development and Evolution. MacMillan, London.
-1902	Bateson, W. 1902/1909. Mendel's Principles of Heredity. A Defense. Cambridge Univ. Press, Cambridge. [READ 1902 EDITION ONLINE HERE] [Mendel's work on plant breeding and inheritance (see below) was all but lost when Bateson resurrected it in this book (KS)]
-1919	Morgan, T. H. 1919. The Physical Basis of Heredity. Monographs on Experimental Biology. J. B. Lippincott Co., Philadelphia.
-1930	Fisher, R. A. 1930. The Genetical Theory of Natural Selection. Clarendon Press, Oxford. FULL TEXT LINK HERE
-1932	Haldane, J. B. S. 1932. The Causes of Evolution. Longmans, Green and Co., London.
-[Birth of quantitative genetics; appendix has summary of his papers on selection intensity, etc. (CS); reprinted 1990 by Princeton Univ. Press, which you can buy or read about HERE (KS)]
-1937	Dobzhansky, T. 1937. Genetics and the Origin of Species. Columbia Univ. Press, New York. 
-[+2nd and 3rd editions in 1941 and 1951, respectively (KS)]
-1938	de Beer, G. R. (editor).1938. Evolution. Essays on Aspects of Evolutionary Biology Presented to Professor E. S. Goodrich on His Birthday. Oxford/Clarendon Press, Oxford.
-1940	Goldschmidt, R. 1940. The Material Basis of Evolution. Yale Univ. Press, New Haven. 
-[ever wonder where the term "hopeful monster" came from? (KS)]
-1940	de Beer, G. R. 1940. Embryos and Ancestors. 1st ed. Oxford/Clarendon Press, Oxford.
-[Early ideas on evo-devo. 3rd edition published in 1958. pdf courtesy of Hao Wang (KS)
-1942	Huxley, J. S. 1942. Evolution, the Modern Synthesis. Harper, New York. (Schwenk)
-[new edition in 1963, Allen and Unwin, London, with new Introduction by Huxley (KS)]
-1942	Mayr, E. 1942. Systematics and the Origin of Species. Columbia Univ. Press, New York.
-1942	Thompson, D. W. 1942. On Growth and Form: A New Edition. Cambridge Univ. Press, Cambridge. 
-[reprinted unabridged by Dover Press, 1992. An amazing book dealing with allometry, morphological transformation and quantification, among other things. Introduces the application of Cartesian coordinates to examine 2-D shape change (KS)]
-1944	Simpson, G. G. 1944. Tempo and Mode in Evolution. Columbia Univ. Press, New York.
-1949	Jepsen, G. L., G. G. Simpson and E. Mayr (editors). 1949. Genetics, Paleontology and Evolution. Princeton Univ. Press, Princeton, NJ. 
-[the short Foreward by Jepsen is a nice capsule summary of the aims and scope of the Synthesis (KS)]
-1949	Schmalhausen, I. I. 1949. Factors of Evolution. The Theory of Stabilizing Selection. The Blakiston Co., Philadelphia. 
-[reprinted 1986 by the Univ. of Chicago Press. Schmalhausen worked in isolation in Stalinist Russia and his accomplishments are all the more remarkable because of this (KS)]
-1949	Simpson, G. G. 1949. The Meaning of Evolution. Yale Univ. Press, New Haven. 
-[more of a popular book, but influential (KS)]
-1950	Stebbins, G. L., Jr. 1950. Variation and Evolution in Plants. Columbia Univ. Press, New York.
-[Stebbins was the one botanist ‘officially’ welcomed into the Synthesis fold (KS)]
-[Interestingly, despite the emphasis of the synthesis on "population thinking", this book is largely focused at the macroevolutionary level. (CS)]
-1951	Gregory, W. K. 1951. Evolution Emerging. A Survey of Changing Patterns From Primeval Life to Man. Vols. 1 & 2. MacMillan, New York. (Schwenk)
-[The first volume is a history of life and was probably a bit dated even when it was published; the second volume is an amazing collection of figures of organisms, skulls, fossils, etc. Together they represent an amazing post-war treatise on biodiversity and the physical evidence for evolution (KS)]
-1953	Simpson, G. G. 1953. The Major Features of Evolution. Columbia Univ. Press, New York. 
-[a complete reworking of Tempo and Mode; virtually a new, more synthetic book. If you can read only one Simpson book, make it this one. The job of relating the population/genetic/microevolutionary phenomena of concern to most of the ‘synthesists’ to macroevolutionary/deep time patterns evident in the fossil record fell to Simpson. He makes a heroic effort here and was way ahead of his time. Originates the notion of the 'adaptive zone' and discusses the relation between adaptive zones and adaptive radiations at length (KS)]
-1957	Waddington, C. H. 1957. The Strategy of the Genes. A Discussion of Some Aspects of Theoretical Biology. Macmillan, New York.
-[the dawning of the modern evo-devo movement; a critically important, but often neglected book - a 'must read' for people interested in development and phenotypic evolution. Explicates the important concepts of 'canalization' and the 'epigenetic landscape', among others (KS)]
-1958	Bonner, J. T. 1958. The Evolution of Development. Cambridge Univ. Press, Cambridge.
-1959	Rensch, B. 1959. Evolution Above the Species Level. Columbia Univ. Press, New York. 
-[originally published in 1954 in German; Rensch was a dual PhD in philosophy and biology; his philosophical bent is obvious in his writings. Interestingly, his student, Gerhard Roth - who works on evolutionary neuroanatomy of the brain and especially sensory systems in amphibians - is also a dual PhD in philosophy and biology, as is Schlichting's former student, Massimo Pigliucci...) (KS)]
-1963	Grant, V. 1963. The Origin of Adaptations. Columbia Univ. Press, New York.
-1963	Mayr, E. 1963. Animal Species and Evolution. Belknap/Harvard Univ. Press, Cambridge, MA. 
-[synthesis of the Synthesis from the man who gave us the Synthesis; explicates Mayr’s view on geographic/allopatric speciation, among other things (KS)]
-1965	Whyte, L. L. 1965. Internal Factors in Evolution. George Braziller, New York. (Schwenk)
-[more philosophical than biological, this book, virtually ignored at the time, is becoming increasingly influential; deals with organismal ‘homeostasis’ and introduces the important concept of 'internal selection' (KS)]
-1966	Hennig, W. 1966. Phylogenetic Systematics. Univ. of Illinois Press, Urbana. (Schwenk)
-[translated by D. Dwight Davis and R. Zangerl; this book represents a revised and expanded version of Hennig’s Grundzüge einer Theorie der phylogenetischen Systematik (1950) and is therefore a new book rather than a simple translation. This is the bible of cladistics that when introduced into North America caused a paradigm shift in systematics (KS)]
-1966	Williams, G. C. 1966. Adaptation and Natural Selection. Princeton University Press, Princeton NJ.
-1968	Wright, S. 1968. Evolution and the Genetics of Populations. Vol. 1. Genetics and Biometric Foundations. Univ. of Chicago Press, Chicago.
-Wright, S. 1969. Evolution and the Genetics of Populations. Vol. 2. The Theory of Gene Frequencies. Univ. of Chicago Press, Chicago.
-Wright, S. 1977. Evolution and the Genetics of Populations. Vol. 3. Experimental Results and Evolutionary Deductions. Univ. of Chicago Press, Chicago.
-Wright, S. 1978. Evolution and the Genetics of Populations. Vol. 4. Variability Within and Among Natural Populations. Univ. of Chicago Press, Chicago. (Schwenk)
-1970	Dobzhansky, T. 1970. Genetics of the Evolutionary Process. Columbia Univ. Press, New York.
-1975	Frazzetta, T. H. 1975. Complex Adaptations in Evolving Populations. Sinauer Assoc., Sunderland, MA. 
-[a quirky and often overlooked book on the evolution of 'complex' adaptations, character complexes, etc. (KS)]
-1976	Dawkins, R. 1976. The Selfish Gene. Oxford Univ. Press, Oxford. 
-[phenotypes as contrivances of genes to replicate themselves (KS)]
-1977	Gould, S. J. 1977. Ontogeny and Phylogeny. Belknap/Harvard Univ. Press, Cambridge. 
-[read this book for the first half - a fantastic history of developmental morphology - Haeckel, von Baer - those guys; the second half is Gould’s proposed ‘clock model’ of heterochrony, which he subsequently abandoned for Alberch et al.’s (1979) ‘ontogenetic trajectories’ (KS)]
-1978	Riedl, R. 1978. Order in Living Organisms. John Wiley and Sons, New York.
-[fascinating, but rather opaque; read his 1977 paper for the essentials; Günter Wagner of Yale was a Riedl student (KS)]
-1978	White, M. J. D. 1978. Modes of Speciation. W. H. Freeman, San Francisco.  
-[I’m not sure this belongs here because I don’t believe it has had much of an effect in the long term; however, at the time cytogenetics promised great things and White was its leading proponent; cytogenetics has been largely supplanted by molecular-genetic/genomic approaches (KS)]
-1986	Endler, J. A. 1986. Natural Selection in the Wild. Monographs in Population Biology No. 21. Princeton Univ. Press, Princeton, NJ. 
-[in addition to technical material on measuring selection, etc., Endler has an excellent and thoughtful general/philosophical discussion of natural selection—a very good introduction to the concept (KS)]
-1988	Bonner, J. T. 1988. The Evolution of Complexity by Means of Natural Selection. Princeton Univ. Press, Princeton.
-1992	Williams, G. C. 1992. Natural Selection. Domains, Levels, and Challenges. Oxford Univ. Press, Oxford.
 ____________________________________________________________________________
-ARTICLES AND BOOK CHAPTERS:
+:
 ____________________________________________________________________________
 1896	Baldwin, J. M. 1896. A new factor in evolution. Amer. Nat. 30:441-451, 536-553.
 [for some reason this has been called 'the Baldwin Effect'; see http://en.wikipedia.org/wiki/Baldwin_effect for more information. Also note that Baldwin's paper was divided into two portions in Am. Nat., hence the two pdfs. The 'Baldwin Effect' remains contentious. For some modern invocations, see the papers below. For an especially lucid historical and conceptual discussion about the Baldwin Effect and its relationship to 'genetic assimilation' and 'genetic accommodation', see M. J. West-Eberhard's [2003] book, Developmental Plasticity and Evolution [Oxford Univ. Press] (KS)]
@@ -198,28 +247,4 @@ Du Brul, E. L. and H. Sicher. 1954. The Adaptive Chin. American Lecture Series, 
 [okay, this one is really of most interest to vertebrate biologists, but it is a fantastic story about the origin of a novel tissue type/germ layer - the neural crest- and how it is almost single-handedly responsible for the vertebrate skull/head—a true novelty and complex structure if ever there was one (KS)]
 1984	Gottlieb, L. D. 1984. Genetics and morphological evolution in plants. American Naturalist 123:681-709.
 [The genetic basis of differences in morphology within and between flowering plant species is reviewed in order to elucidate how many genetic changes are responsible for the evolution of new characters. Two broad morphological categories are evident. Differences in structure, shape, orientation, and presence versus absence are frequently discrete and appear to be governed by one or two genes. Differences in dimensions, weight, and number usually exhibit continuous variation and are influenced by numerous genes, though many of them probably act only indirectly via general effects at the whole organ or whole plant levels. Although it is difficult to specify the relative contributions of the two morphological categories during evolutionary divergence, it is clear that discrete character differences are more common in plants than in animals. I propose that their prevalence in plants is a direct consequence of the open, less integrative, and plastic patterns of plant morphogenesis which permit large changes in morphology on the basis of relatively few genetic changes. Morphological divergence among genera or families of flowering plants may reflect many fewer genetic changes than is the case for similar taxonomic levels of higher animals. Accurate estimates of the number of genes responsible for character divergence require knowledge of the ontogenetic and anatomical details of character development and these must be coordinated with genetic analyses. Until this knowledge becomes available, general conclusions about the number of genetic changes responsible for morphological diversity are premature (CS)
-1984	Roth, V. L. 1984. On homology. Biol. J. Linn. Soc. 22:13-29.
-[the best synthesis of the homology concept to that time; the starting point for many subsequent treatments (KS)]
-1985	Felsenstein, J. 1985. Phylogenies and the comparative method. Amer. Nat. 125:1-15.
-[this is the paper that really started the whole emphasis on 'comparative methods' in the sense of statistically controlling for the effects of evolutionary history/phylogeny (KS)]
-1985	Maynard Smith, J., R. Burian, S. Kauffman, P. Alberch, J. Campbell, B. Goodwin, R. Lande, D. Raup and L. Wolpert. 1985. Developmental constraints and evolution: a perspective from the Mountain Lake Conference on Development and Evolution. Quart. Rev. Biol. 60:265-287.
-[an important and oft-cited work on evolutionary/developmental constraint marred by internal contradictions reflecting its having been ‘written by committee’ (KS)]
-1988	Coddington, J. A. 1988. Cladistic tests of adaptational hypotheses. Cladistics 4:3-22.
-[Given how fast systematics has progressed over the last 25 years, I think it's fair to include this; a seminal paper demonstrating the necessity of taking phylogenetic branching pattern into account when drawing conclusions about adaptation—in this example, the fact that 'messy' spider webs are actually derived compared to the esthetically pleasing orb webs, which were thought to be the derived state largely because of intuition and bias about how evolution 'should' proceed, i.e., from disordered to ordered, not the other way around! (KS)]
-1989	Conway Morris, S. 1989. Burgess shale faunas and the Cambrian explosion. Science 246: 339-346.
-1989	Coyne, J. A. and H. A. Orr. 1989. Patterns of speciation in Drosophila. Evoluion 43:362-381.
-Coyne, J. A. and H. A. Orr. 1997. “Patterns of speciation in Drosophila” revisited. Evolution 51:295-303. 
-1992	Orr, H. A., and J. A. Coyne. 1992. The genetics of adaptation: a reassessment. American Naturalist 140:725-742.
-2002	Grant, P. R. and B. R. Grant. 2002. Unpredictable evolution in a 30-year study of Darwin’s Finches. Science 296:707-711.
-[the one exception to the ‘too recent to qualify as a classic rule’ – the summation of 30 years work on the action of natural selection is simply too incredible and important not to include. The Grants demonstrate remarkable phenotypic lability in the beak related to climate change and its effect on food availability. Can 30 years of data be generalized to macroevolutionary patterns? —the big question! (KS)]  Note: there have been more recent updates
-
-SOME USEFUL, NON-TRADITIONAL, HISTORICAL TREATMENTS
-
-Comment: The list above is restricted to scientific contributions in the history of post-Darwinian evolutionary biology.  It does not contain secondary sources, i.e., books and papers primarily about the history and philosophy of evolution. There are many such contributions, particularly histories of Darwinism and neo-Darwinism (the Synthesis). Some of the latter have been written by historians and philosophers of biology, some by biologists—notably Ernst Mayr’s various historical treatments of the Synthesis. William Provine is another important author in this area who is much less dogmatic. However, we are presently in the midst of what might eventually be interpreted as a Kuhnian ‘paradigm shift’ in evolutionary biology, with the roles of development, ontogeny and organismal phenotype playing an increasingly important part in our views about evolutionary mechanisms and patterns. The modern evo-devo movement, though often thought of as ‘new’, is actually based on a very old tradition originating in the early 19th century, primarily from the German school of evolutionary morphology and development ('transcendental morpholgoy', e.g., Haeckel, von Baer), carried into the 20th century by Baldwin, de Beer and Waddington, to name a few. There is ongoing debate about the importance of evo-devo in a general theory of evolution—one extreme view says that it is virtually irrelevant and that the genetic-population-selection principles of the neo-Darwinian Synthesis are sufficient to account for all known aspects of evolution and that so-called 'macroevoluion' is nothing more than the extrapolation of microevolutionary processes over deep time; the opposite extreme says that selection is a minor player in phenotypic evolution and that developmental ‘rules of form’ have primacy. It is likely, as usual, that the truth lies somewhere in between. I’ve listed the particular books below because that deal with the history of modern evolutionary theory explicitly from the vantage point of evo-devo, and as such, provide novel perspectives and analyses. They also discuss historical figures usually ignored or even denigrated in ‘traditional’ histories. Obviously, historical revisionism occurs in science, as well as politics, and it is up to us to sift through the various views to see which is consonant with the primary literature. Of course, this is not always easy to do—for example, not everyone is comfortable reading through von Baer’s (1828) 300+ page, Über Entwickelungsgeschichte der Thiere. Beobachtung und Reflexion (“On the Developmental History of Animals. Observations and Reflection”).
-
-Amundson, R. 2005. The Changing Role of the Embryo in Evolutionary Thought. Roots of Evo-Devo. Cambridge Studies in Philosophy and Biology. Cambridge Univ. Press, Cambridge.
-[Ron Amundson is an extremely thoughtful and insightful historian/philosophers of biology. His essays on adaptation and constraint are top notch. I expect this book is the same (KS)].
-Richards, R. J. 1992. The Meaning of Evolution. The Morphological Construction and Ideological Reconstruction of Darwin’s Theory. Univ. of Chicago Press, Chicago. (
-[Richards provides an excellent short history of the role and importance of the (mostly) German school of morphology and evolutionary morphology/development and its role in the formation of evolutionary theory—a perspective that is not easy to come by and which speaks to the modern evo-devo movement. An alternative to the Mayrian neoDarwinian, revisionist view of evolutionary history.]
-Richards, R. J. 2002. The Romantic Conception of Life. Science and Philosphy in the Age of Goethe. Univ. of Chicago Press, Chicago.
 {% endcomment %}
