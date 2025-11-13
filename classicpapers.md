@@ -127,7 +127,7 @@ NOTE:  In the comments following some of the references, KS = Kurt Schwenk; CS =
 
 **1992** Williams, G. C. 1992. Natural Selection. Domains, Levels, and Challenges. Oxford Univ. Press, Oxford.
 
-## ARTICLES AND BOOK CHAPTERS
+## Articles and book chapters
 
 **1896** Baldwin, J. M. 1896. A new factor in evolution. Amer. Nat. 30:441-451, 536-553.
 > For some reason this has been called 'the Baldwin Effect'; see [the Wikipedia article on the Baldwin Effect](https://en.wikipedia.org/wiki/Baldwin_effect) for more information. Also note that Baldwin's paper was divided into two portions in Am. Nat., hence the two pdfs. The 'Baldwin Effect' remains contentious. For some modern invocations, see the papers below. For an especially lucid historical and conceptual discussion about the Baldwin Effect and its relationship to 'genetic assimilation' and 'genetic accommodation', see M. J. West-Eberhard's [2003] book, Developmental Plasticity and Evolution [Oxford Univ. Press] (KS)]

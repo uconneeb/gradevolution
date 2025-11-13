@@ -4,7 +4,7 @@ title: Bibliography
 permalink: /bibliography/
 ---
 
-See also Kurt Schenk's [list of classic papers in evolutionary biology](classicpapers)
+See also Kurt Schenk's [list of classic papers in evolutionary biology]({{ site.baseurl }}/classicpapers)
 
 **JA Coyne and HA Orr. 1989.** [Patterns of speciation in _Drosophila_](https://doi.org/10.1111/j.1558-5646.1989.tb04233.x) Evolution 43:362-381.
 
