@@ -3,6 +3,7 @@ layout: page
 title: Bibliography
 permalink: /bibliography/
 ---
+We will be using a [Zotero group](https://www.zotero.org/groups/6652897/eeb_f/library) for course-related readings. You will receive an email invitation to join the group and will need to register for a free [Zotero account](https://www.zotero.org/user/register). You may then access the group either online through a web browser or by syncing it to your computer. 
 
 See also Kurt Schwenk's [list of classic papers in evolutionary biology]({{ site.baseurl }}/classicpapers)
 
