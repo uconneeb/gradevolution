@@ -15,6 +15,10 @@ EEB 5449 is a core graduate course in the [Department of Ecology and Evolutionar
 
 Below you will find basic information about the course. Visit the menu items at the top for more information.
 
+## Linked resources for Fall 2026
+['Live' schedule](https://docs.google.com/spreadsheets/d/12oqVhk6tRIIkI74khZCvKZSMwIHW4hxvowsI8wsrKwQ/edit?usp=sharing), updated regularly with readings and other assignments  
+[Zotero library](https://www.zotero.org/groups/6652897/eeb5449_f2026) with relevant literature
+
 ## Meeting time
 
 The course meets Monday, Wednesday, and Friday 9:05 to 9:55 in CHEM T309, which is located in the [Chemistry Building](https://maps.app.goo.gl/dUL4QrRtSCtkYEQw5) on the UConn Storrs campus. 
