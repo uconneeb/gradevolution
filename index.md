@@ -17,7 +17,7 @@ Below you will find basic information about the course. Visit the menu items at 
 
 ## Meeting time
 
-The course meets Monday, Wednesday, and Friday 9:05 to 9:55 in CHEM T309, which is located in the [Torrey Life Science](https://maps.app.goo.gl/dUL4QrRtSCtkYEQw5) building on the UConn Storrs campus. 
+The course meets Monday, Wednesday, and Friday 9:05 to 9:55 in CHEM T309, which is located in the [Chemistry Building](https://maps.app.goo.gl/dUL4QrRtSCtkYEQw5) on the UConn Storrs campus. 
 
 ## Textbook
 
