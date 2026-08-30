@@ -5,7 +5,7 @@ permalink: /lecture-schedule/
 ---
 
 Date       |Theme                 |Topic                                                                       |Assignment due    
-:--------- |:-------------------- |:-------------------------------------------------------------------------- |:---------------- 
+:--------------------- |:---------------------------- |:-------------------------------------------------------------------------- |:-------------------------- 
 Mo Aug. 31 |Overview              |Domain of evolutionary biology                                              |                  
 We Sep. 2  |Adaptation            |Selection (natural & sexual)                                                |                  
 Fr Sep. 4  |Adaptation            |What is fitness?                                                            |                  
