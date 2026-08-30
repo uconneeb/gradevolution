@@ -6,8 +6,8 @@ permalink: /contact/
 
 ## Instructor
 
-**Person:**         | Dr. Daniel Bolnick                                   
-**E-mail:**         | [daniel.bolnick@uconn.edu](mailto:daniel.bolnick@uconn.edu)  
+**Person:**         | Dr. Elizabeth Jockusch                                  
+**E-mail:**         | [elizabeth.jockusch@uconn.edu](mailto:elizabeth.jockusch@uconn.edu)  
 **Office hours:**   | TBA       
 {:.persontable}
 
