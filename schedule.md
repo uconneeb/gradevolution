@@ -4,7 +4,7 @@ title: Lectures
 permalink: /lecture-schedule/
 ---
 
-
+See ['live' schedule](https://docs.google.com/spreadsheets/d/12oqVhk6tRIIkI74khZCvKZSMwIHW4hxvowsI8wsrKwQ/edit?usp=sharing) for readings and other assignments.
 
 Date       |Theme                 |Topic                                                                       |Assignment due    
 :--------------------- |:---------------------------- |:-------------------------------------------------------------------------- |:-------------------------- 
