@@ -23,6 +23,14 @@ Below you will find basic information about the course. Visit the menu items at 
 
 The course meets Monday, Wednesday, and Friday 9:05 to 9:55 in CHEM T309, which is located in the [Chemistry Building](https://maps.app.goo.gl/dUL4QrRtSCtkYEQw5) on the UConn Storrs campus. 
 
+## Course aims
+
+Our aim is for students to emerge from this course able to view the natural world through the lens of an evolutionary biologist. This requires knowledge of evolutionary theory and the ability to apply that theory to real-world examples. It also entails developing the ability to read and critique the primary literature and to ask questions about evolution, design studies to answer them, and interpret evidence.  
+
+## Schedule of topics
+
+See the [lecture schedule](lecture-schedule).
+
 ## Textbook
 
 There is no textbook for this course. Readings from the primary and secondary literature will be assigned regularly.
@@ -30,15 +38,8 @@ We encourage all students to have one of the standard evolution textbooks (e.g.,
 
 ## Evaluations and Grading
 
-Please see the [Grading](grading) page for details about how your learning will be assessed this semester.
-
-## Schedule of topics
-
-See the [lecture schedule](lecture-schedule).
-
-## Course aims
-
-Our aim is for students to emerge from this course able to view the natural world through the lens of an evolutionary biologist. This requires knowledge of evolutionary theory and the ability to apply that theory to real-world examples. It also entails developing the ability to read and critique the primary literature and to ask questions about evolution, design studies to answer them, and interpret evidence.  
+Please see the [Grading](grading) page for details about how your learning will be assessed this semester.  
+Also be sure to review the course policy on [use of generative AI](ai_policy).
 
 ## Important Information ##
 
